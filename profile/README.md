@@ -13,6 +13,9 @@
   <a href="https://github.com/guanyang">
     <img src="https://komarev.com/ghpvc/?username=guanyang&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
+  <a href="https://github.com/guanyang?tab=repositories">
+     <img src="https://img.shields.io/github/stars/guanyang?style=flat-square&logo=github&label=Stars&color=orange" alt="Stars" />
+  </a>
   <a href="https://note.xcloudapi.com/" target="_blank">
      <img src="https://img.shields.io/website?url=https%3A%2F%2Fnote.xcloudapi.com%2F&style=flat-square&label=My%20Blog&logo=internetexplorer&color=success" alt="My Blog" />
   </a>
@@ -23,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,lua,python,docker,kubernetes,mysql,redis,git,linux,vscode,idea&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,spring,lua,python,docker,kubernetes,mysql,redis&perline=8" />
   </a>
 </p>
 
