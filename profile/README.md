@@ -39,6 +39,7 @@
 #### 🤖 AI & Agentic Intelligence
 | Project | Description | Tech |
 | :--- | :--- | :--- |
+| **[llm-wiki](https://github.com/guanyang/llm-wiki)** | A comprehensive knowledge base and curated resources for LLMs and AI development. | `AI` `Wiki` `LLM` |
 | **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** | **Core Project**. Defining modular skills to empower AI Agents with specialized capabilities like full-stack development and complex logic planning. | `Python` `AI` `Agent` |
 | **[super-publisher](https://github.com/guanyang/super-publisher)** | **Agent Plugin**. Automates content publishing across platforms (e.g., Toutiao). Designed to enable agents to publish their own work autonomously. | `Python` `Automation` |
 
@@ -54,8 +55,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats.xcloudapi.com/api?username=guanyang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Guanyang's GitHub Stats" />
-  <img src="https://github-stats.xcloudapi.com/api/top-langs/?username=guanyang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Top Languages" />
+
+  ![Stats](stats.svg)
+  ![Top Languages](top-langs.svg)
+
 </div>
 
 <br/>
