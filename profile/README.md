@@ -55,10 +55,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-
-  ![Stats](stats.svg)
-  ![Top Languages](top-langs.svg)
-
+  <img src="https://raw.githubusercontent.com/guanyang/.github/refs/heads/main/profile/stats.svg" height="150" alt="Guanyang's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/guanyang/.github/refs/heads/main/profile/top-langs.svg" height="150" alt="Top Languages" />
 </div>
 
 <br/>
