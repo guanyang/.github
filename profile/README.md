@@ -40,7 +40,7 @@
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **[llm-wiki](https://github.com/guanyang/llm-wiki)** | A comprehensive knowledge base and curated resources for LLMs and AI development. | `AI` `Wiki` `LLM` |
-| **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** | **Core Project**. Defining modular skills to empower AI Agents with specialized capabilities like full-stack development and complex logic planning. | `Python` `AI` `Agent` |
+| **[open-agent-hub](https://github.com/guanyang/open-agent-hub)** | **Core Project**. Defining modular skills to empower AI Agents with specialized capabilities like full-stack development and complex logic planning. | `Python` `AI` `Agent` |
 | **[super-publisher](https://github.com/guanyang/super-publisher)** | **Agent Plugin**. Automates content publishing across platforms (e.g., Toutiao). Designed to enable agents to publish their own work autonomously. | `Python` `Automation` |
 
 #### ☕ Java & Spring Ecosystem
