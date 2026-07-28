@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">guanyang's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 1027, Total Commits  (last year) : 338, Total PRs: 5, Total Issues: 2, Contributed to (last year): 0</desc>
+        <title id="titleId">guanyang&#39;s GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 1028, Total Commits  (last year) : 338, Total PRs: 5, Total Issues: 2, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 118.91707030758914;
+        stroke-dashoffset: 118.91346241046823;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >guanyang's GitHub Stats</text>
+      >guanyang&#39;s GitHub Stats</text>
     </g>
       </g>
     
